@@ -46,7 +46,7 @@ Stworzenie intuicyjnego panelu do zarządzania projektami, który:
 
 ---
 
-## 🚀 Instalacja i uruchomienie
+## 🚀 Instalacja
 
 1_Projekt:
 ```bash
